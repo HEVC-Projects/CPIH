@@ -12,3 +12,7 @@ In total, the CPIH database contains 12 sub-databases according to QP and CU siz
 To download original image and label files, visit https://__________________.
 
 Then execute "extractCUDepthGrndTruthCPIH.m" and generate all the training, validation and test samples.
+
+If the CPIH database is helpful to your research, please cite this paper:
+
+Tianyi Li, et al. A Deep Convolutional Neural Network Approach for Complexity Reduction on Intra-mode HEVC. IEEE International Conference on Multimedia and Expo (ICME), 2017.
