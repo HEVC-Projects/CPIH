@@ -7,7 +7,7 @@ It is served for CTU Partition of Intra-mode HEVC, namely CPIH database. To the 
 
 Next, all images are encoded by the HEVC reference software HM 16.0. Specifically, four QPs {22,27,32,37} are applied for encoding with the configuration file encoder intra main.cfg in the common test conditions. After encoding, the binary labels indicating splitting (=1) and non-splitting (=0) are obtained for all CUs, and each CU with its corresponding binary label is seen as a sample. 
 
-In total, the CPIH database contains 12 sub-databases according to QP and CU size, on account that 4QPs are applied and CUs with 3 different sizes (64*64, 32*32 and 16*16) are allowed to be split.
+In total, the CPIH database contains 12 sub-databases according to QP and CU size, on account that 4QPs are applied and CUs with 3 different sizes (64\*64, 32\*32 and 16\*16) are allowed to be split.
 
 Raw image and label files are available at https://__________________.
 Then execute "extractCUDepthGrndTruthCPIH.m" and generate all the training, validation and test samples.
