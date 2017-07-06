@@ -9,6 +9,6 @@ Next, all images are encoded by the HEVC reference software HM 16.0. Specificall
 
 In total, the CPIH database contains 12 sub-databases according to QP and CU size, on account that 4QPs are applied and CUs with 3 different sizes (64\*64, 32\*32 and 16\*16) are allowed to be split.
 
-Raw image and label files are available at https://__________________.
+To download original image and label files, visit https://__________________.
 
 Then execute "extractCUDepthGrndTruthCPIH.m" and generate all the training, validation and test samples.
