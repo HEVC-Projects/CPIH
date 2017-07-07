@@ -1,4 +1,4 @@
-function main
+function extractCUDepthGrndTruthCPIH
     % This program transfers raw image and label files to samples that are directly available for deep CNNs,
     % in order to establish a large-scale database for CU partition of 
     % intra-mode HEVC (CPIH). 
