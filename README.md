@@ -11,21 +11,7 @@ In total, the CPIH database contains 12 sub-databases according to QP and CU siz
 
 To download original images and labels (compressed in 8 files), visit:
 
-https://drive.google.com/open?id=0B-x4IFNM0upjWmllNDdnc182dlU
-
-https://drive.google.com/open?id=0B-x4IFNM0upjVTZHMmpveElGOGM
-
-https://drive.google.com/open?id=0B-x4IFNM0upjLXByNkpIM3lTMTA
-
-https://drive.google.com/open?id=0B-x4IFNM0upjbUxsQW5oeDdZb3M
-
-https://drive.google.com/open?id=0B-x4IFNM0upjYzFQaEhPNEZRaWM
-
-https://drive.google.com/open?id=0B-x4IFNM0upjNzl5SGtqOTB3WG8
-
-https://drive.google.com/open?id=0B-x4IFNM0upjSVh0NEgtRXV0ajQ
-
-https://drive.google.com/open?id=0B-x4IFNM0upjY2JDclFsZEtjdU0
+https://drive.google.com/drive/folders/1ftpSoq21vjBHgKJmbhQyQXb0L430gDwK?usp=sharing
 
 Extract all data above to get 12 YUV files and 8 DAT files. Then execute "extractCUDepthGrndTruthCPIH.m" and generate all the training, validation and test samples.
 
