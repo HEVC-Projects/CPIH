@@ -1,7 +1,8 @@
 # CPIH
-A large-scale database for CU partition of intra-mode HEVC (CPIH).
 
-Note on Jan. 8th, 2018: the CPIH now is a subset of the database for CU Partition of HEVC (CPH), supporting both intra- and inter-modes. For more information, please visit https://github.com/HEVC-Projects/CPH.
+**Note on Jan. 8th, 2018**: currently the CPIH is a subset of the database for CU Partition of HEVC (CPH), supporting both intra- and inter-modes. For more information, please visit https://github.com/HEVC-Projects/CPH.
+
+A large-scale database for CU partition of intra-mode HEVC (CPIH).
 
 For reducing HEVC encoding complexity through deep learning based approach, a large-scale database is established [1]. 
 
